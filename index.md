@@ -196,6 +196,8 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 {% include lc/schedule.html %}
 {% endif %}
 
+https://datacarpentry.org/python-ecology-lesson/
+
 {% comment %}
 Collaborative Notes
 

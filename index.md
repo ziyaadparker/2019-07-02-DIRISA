@@ -12,7 +12,7 @@ humantime: "9:00 am - 4:00 pm"    # human-readable times for the workshop (e.g.,
 startdate: 2019-07-02      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 201-07-04        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Ziyaad Parker, Tadiwanashe Gutsa"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["??"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["nshozi@csir.co.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -188,7 +188,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 {% endcomment %}
 <h2 id="schedule">Schedule</h2>
 
-<p><a href="https://datacarpentry.org/python-ecology-lesson/">Click here</a> for the lessons that will be taught</p>
+<p><a href="https://datacarpentry.org/python-ecology-lesson/">Click here</a> for the lessons that will be taught.</p>
 
 {% comment %}
 Collaborative Notes

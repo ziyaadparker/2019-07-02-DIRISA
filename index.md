@@ -188,15 +188,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 {% endcomment %}
 <h2 id="schedule">Schedule</h2>
 
-{% if page.carpentry == "swc" %}
-{% include sc/schedule.html %}
-{% elsif page.carpentry == "dc" %}
-{% include dc/schedule.html %}
-{% elsif page.carpentry == "lc" %}
-{% include lc/schedule.html %}
-{% endif %}
-
-https://datacarpentry.org/python-ecology-lesson/
+<p><a href="https://datacarpentry.org/python-ecology-lesson/">Click here</a> for the lessons that will be taught</p>
 
 {% comment %}
 Collaborative Notes
